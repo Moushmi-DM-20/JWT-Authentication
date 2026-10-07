@@ -215,23 +215,6 @@ Production-Level Authentication
 
 ---
 
-## 📂 Repository Structure
-
-```text
-jwt-authentication/
-│
-├── README.md
-│
-├── JWT-Authentication-Notes.docx
-│
-└── resources/
-    └── references.md
-```
-
-The repository can be expanded over time with examples, diagrams, code implementations, and additional learning notes.
-
----
-
 ## 🔑 Important Concepts
 
 ### Authentication
